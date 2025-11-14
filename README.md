@@ -1,4 +1,3 @@
-[Проекты по ручному тестированию:](https://docs.google.com/document/d/1d_tIpLc1YicRR9FOizKFnM3hpIO6CsZRppyN7uWlyAA/edit?usp=sharing)
 <h2>Проект по ручному тестированию web-приложения</h2>
 Полностью протестировала интернет-магазин «Skillbox», в ходе которого выполнила следующие задачи:
 
