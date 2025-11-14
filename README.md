@@ -17,10 +17,10 @@
 
 Найденные дефекты оформила в баг-репорты в приложении Youtrack.
 
-[С результатами тестирования можно ознакомиться в Youtrack (доступ через VPN):](https://skillboxstudent.youtrack.cloud/agiles/159-4/current)
+[С результатами тестирования можно ознакомиться в Youtrack (доступ через VPN)](https://skillboxstudent.youtrack.cloud/agiles/159-4/current)
 
 <h2>Проект по ручному тестированию  мобильного приложения</h2>
 Успешно выполнила тестирование мобильного приложения  «Skillcinema» от тестирования аналитики и UX до составления заключения и рекомендаций по итогам проведенного тестирования. 
 
-[С результатами работы можно ознакомиться в Youtrack (доступ через VPN):](https://skillboxstudent.youtrack.cloud/agiles/159-2/current)
+[С результатами работы можно ознакомиться в Youtrack (доступ через VPN)](https://skillboxstudent.youtrack.cloud/agiles/159-2/current)
 
